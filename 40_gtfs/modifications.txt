@@ -1,0 +1,14 @@
+Below is a list of the changes included in the SC-Spring-2024.6 release of Sound Transit GTFS data.
+
+Schedule Changes
+* disruption schedule for the 1 Line starting May 12. Disruption will continue until June 23. The June 21-23 disruption with a bus bridge will be included in the next GTFS update.
+
+Route Changes
+* none
+
+Stop Changes
+* update Sounder stops to label stops by track number rather than by direction of travel (since tracks may be used in either direction)
+* add blank level_id field to support future use of pathways
+
+Other Changes
+* none
